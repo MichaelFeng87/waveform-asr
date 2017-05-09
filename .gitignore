@@ -1,0 +1,8 @@
+# Local install
+*.egg-info
+
+# PyTest cache
+.cache/
+
+# PyCharm config
+.idea/
