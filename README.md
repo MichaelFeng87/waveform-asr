@@ -1,3 +1,3 @@
-# wavenet-asr
+# waveform-asr
 
-Hybrid NN-HMM automatic speech recognition with WaveNet.
+Waveform-based speech recognition with Kaldi and Tensorflow
